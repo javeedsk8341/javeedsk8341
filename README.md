@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javeedsk8341
 - 👀 I’m interested in EHTICAL HACKING
 
-- 🌱 I’m currently learning Ethical hacking from scrach fromm zaid sir in udmey
+- 
 -
 
 <!---
