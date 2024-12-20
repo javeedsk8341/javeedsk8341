@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @javeedsk8341
-- 👀 I’m interested in EHTICAL HACKING
 
 - 
 -
